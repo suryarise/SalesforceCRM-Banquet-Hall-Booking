@@ -164,6 +164,15 @@ This project is licensed under the Unlicense.
 
 ---
 
+## Team Details
+
+| S.No | Name              | Role   | Trailhead Profile |
+|------|------------------|--------|-------------------|
+| 1    | Surya R          | Leader | None              |
+| 2    | Ashok S          | Member | None |
+| 3    | Danish Yousupa R | Member | None              |
+| 4    | Gopika K         | Member | None              |
+
 ## ⭐ Support
 
 If you found this project helpful, give it a ⭐ on GitHub!
