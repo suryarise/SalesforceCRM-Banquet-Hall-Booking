@@ -168,10 +168,10 @@ This project is licensed under the Unlicense.
 
 | S.No | Name              | Role   | Trailhead Profile |
 |------|------------------|--------|-------------------|
-| 1    | Surya R          | Leader | None              |
-| 2    | Ashok S          | Member | None |
-| 3    | Danish Yousupa R | Member | None              |
-| 4    | Gopika K         | Member | None              |
+| 1    | Surya R          | Leader | [NaanMudhalvan](https://www.salesforce.com/trailblazer/rb5c42oz50a8bume59) |
+| 2    | Ashok S          | Member | [NaanMudhalvan](https://www.salesforce.com/trailblazer/ashok777) |
+| 3    | Danish Yousupa R | Member | [NaanMudhalvan](https://www.salesforce.com/trailblazer/ay3tqcakvzvllqolrs) |
+| 4    | Gopika K         | Member | [NaanMudhalvan](https://www.salesforce.com/trailblazer/uaoojtpbjjxy2sv30w) |
 
 ## ⭐ Support
 
