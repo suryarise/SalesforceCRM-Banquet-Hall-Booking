@@ -177,5 +177,5 @@ This project is licensed under the Unlicense.
 
 If you found this project helpful, give it a ⭐ on GitHub!
 
-Surya is the mass
+Surya is loose
 Danish is here
