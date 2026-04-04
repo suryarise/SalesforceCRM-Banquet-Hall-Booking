@@ -169,6 +169,10 @@ Dashboard Update 📈
 
  [Watch the Demo Video Explaining the Project](https://drive.google.com/file/d/1BP6CJEe3NDookEZbb344joamy66fHSFj/view?usp=drivesdk)
 
+## GitHub Repository  
+
+ [Salesforce CRM Banquet Hall Booking System](https://github.com/suryarise/SalesforceCRM-Banquet-Hall-Booking)
+ 
 ---
 
 ## 🏁 Conclusion  
@@ -193,7 +197,8 @@ This project demonstrates how Salesforce can be used to build a powerful CRM sys
 We sincerely thank:
 
 - Tamil Nadu Skill Development Corporation  
-- Salesforce  
+- Salesforce
+- SmartBridge
 - NaanMudhalvan  
 - ServiceNow  
 - NASSCOM  
