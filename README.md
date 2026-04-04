@@ -177,7 +177,7 @@ This project demonstrates how Salesforce can be used to build a powerful CRM sys
 
 ---
 
-## 👥 Team Details & Contributions  
+## 👥 Team Details,Contributions & Profile
 
 | S.No | Name              | Role   | Contribution                                  | Trailhead Profile |
 |------|------------------|--------|-----------------------------------------------|-------------------|
