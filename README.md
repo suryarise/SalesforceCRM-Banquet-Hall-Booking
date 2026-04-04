@@ -165,6 +165,10 @@ Dashboard Update 📈
 
 ---
 
+## Demo Links
+
+---
+
 ## 🏁 Conclusion  
 
 This project demonstrates how Salesforce can be used to build a powerful CRM system for real-world event management. It integrates automation, analytics, and structured data handling to deliver an efficient and scalable solution.
@@ -173,12 +177,12 @@ This project demonstrates how Salesforce can be used to build a powerful CRM sys
 
 ## 👥 Team Details & Contributions  
 
-| S.No | Name              | Role   | Contribution                                  | Profile |
-|------|------------------|--------|-----------------------------------------------|---------|
-| 1    | Surya R          | Leader | App, Objects, Tabs Setup                      | [suryarise](https://github.com/suryarise) |
-| 2    | Ashok S          | Member | Dashboard, Staff, Review                      | [Ashok-777](https://github.com/Ashok-777) |
-| 3    | Danish Yousupa R | Member | Fields, Reports                               | [danishyosupa-ai](https://github.com/danishyosupa-ai) |
-| 4    | Gopika K         | Member | Flows & Apex Triggers                         | [gopikak-14](https://github.com/gopikak-14) |
+| S.No | Name              | Role   | Contribution                                  | Trailhead Profile |
+|------|------------------|--------|-----------------------------------------------|-------------------|
+| 1    | Surya R          | Leader | App, Objects, Tabs Setup                      | [NaanMudhalvan](https://www.salesforce.com/trailblazer/rb5c42oz50a8bume59) |
+| 2    | Ashok S          | Member | Dashboard, Staff, Review                      | [NaanMudhalvan](https://www.salesforce.com/trailblazer/ashok777) |
+| 3    | Danish Yousupa R | Member | Fields, Reports                               | [NaanMudhalvan](https://www.salesforce.com/trailblazer/ay3tqcakvzvllqolrs) |
+| 4    | Gopika K         | Member | Flows & Apex Triggers                         | [NaanMudhalvan](https://www.salesforce.com/trailblazer/uaoojtpbjjxy2sv30w) |
 
 ---
 
@@ -213,3 +217,5 @@ Your support motivates us to build more impactful projects!
   <br><br>
   Crafted with 🤝 Teamwork and Collaboration
 </p>
+
+---
