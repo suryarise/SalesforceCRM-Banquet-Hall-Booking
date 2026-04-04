@@ -206,6 +206,8 @@ We sincerely thank:
 
 for their support and learning resources.
 
+![d2a9205c-2d71-4e45-bc80-279991437a2f](https://github.com/user-attachments/assets/3c26c50f-f66a-4b40-896a-776a17fbed78)
+
 ---
 
 ## ⭐ Support  
