@@ -1,9 +1,0 @@
-- CRM-based solution: Automates and streamlines banquet hall operations.
-- Centralized platform: Manages the entire process from inquiry to event execution.
-- Booking management: Allows customers to check availability, submit event details, and confirm bookings.
-- Prevents duplicate reservations: Uses validation rules and flow automation.
-- Event planning: Manages catering, decorations, and other service customizations.
-- Automated billing: Uses Apex triggers for seamless billing processes.
-- Real-time insights: Provides reports and dashboards for better decision-making.
-- Efficiency: Reduces manual work, avoids scheduling conflicts, and enhances the customer experience.
-- Scalable solution: Data-driven approach to managing and growing event operations.
